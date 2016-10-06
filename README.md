@@ -34,7 +34,7 @@ Embora a API seja disponivel através de uma única URI "/api/SKUs" , separei as
 <li>PUT /api/SKUs/{id}</li>
 </ul>
 
-<b>Estrutura da Mensagem SKU<b>
+<i>Estrutura da Mensagem SKU</i>
 
 {
   "idSKU": 0,
@@ -52,7 +52,7 @@ Embora a API seja disponivel através de uma única URI "/api/SKUs" , separei as
 </ul>
 
 <br>
-<b>Estrutura da Mensagem Notificação</b>
+<i>Estrutura da Mensagem Notificação</i>
 <br>
 {
   "tipo": "criacao_sku",
